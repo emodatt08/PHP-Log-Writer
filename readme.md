@@ -2,12 +2,12 @@
 
 ## Usage
 
-include class 
+Include class 
 ```sh
     include('LaravelLog.php');
 ```
 
-set  file name
+Set  file name
 ```sh
     $log->setFileName('requests');
 ```
